@@ -10,17 +10,14 @@
       "modid": "relics"
     }
   ],
-  "accept_mirrored": true,
+  "accept_mirrored": false,
   "category": "misc",
   "show_notification": false,
   "pattern": [
-    "ABCDEF",
-    "GHIJKL",
-    "MNOPQR",
-    "STUVWX",
-    "YZabcd",
-    "efghij",
-    "klmnop"
+    "ABCDEFG",
+    "HIJKLMN",
+    "OPQRSTU",
+    "VWXYZab"
   ],
   "key": {
     "A": {
@@ -30,124 +27,82 @@
       "item": "relics:aqua_walker"
     },
     "C": {
-      "item": "relics:arrow_quiver"
-    },
-    "D": {
       "item": "relics:bastion_ring"
     },
-    "E": {
+    "D": {
       "item": "relics:blazing_flask"
     },
-    "F": {
+    "E": {
       "item": "relics:chorus_inhibitor"
     },
-    "G": {
-      "item": "relics:delay_ring"
-    },
-    "H": {
+    "F": {
       "item": "relics:drowned_belt"
     },
-    "I": {
+    "G": {
       "item": "relics:elytra_booster"
     },
-    "J": {
+    "H": {
       "item": "relics:enders_hand"
     },
-    "K": {
-      "item": "relics:fragrant_flower"
-    },
-    "L": {
-      "item": "relics:ghost_skin_talisman"
-    },
-    "M": {
+    "I": {
       "item": "relics:holy_locket"
     },
-    "N": {
-      "item": "relics:horse_flute"
-    },
-    "O": {
+    "J": {
       "item": "relics:hunter_belt"
     },
-    "P": {
+    "K": {
       "item": "relics:ice_breaker"
     },
-    "Q": {
+    "L": {
       "item": "relics:ice_skates"
     },
-    "R": {
+    "M": {
       "item": "relics:infinity_ham"
     },
-    "S": {
+    "N": {
       "item": "relics:jellyfish_necklace"
     },
-    "T": {
+    "O": {
       "item": "relics:leafy_ring"
     },
-    "U": {
+    "P": {
       "item": "relics:leather_belt"
     },
-    "V": {
-      "item": "relics:lucky_horseshoe"
-    },
-    "W": {
+    "Q": {
       "item": "relics:magic_mirror"
     },
-    "X": {
+    "R": {
       "item": "relics:magma_walker"
     },
-    "Y": {
+    "S": {
       "item": "relics:midnight_robe"
     },
-    "Z": {
-      "item": "relics:old_boot"
-    },
-    "a": {
+    "T": {
       "item": "relics:phantom_boot"
     },
-    "b": {
+    "U": {
       "item": "relics:rage_glove"
     },
-    "c": {
+    "V": {
       "item": "relics:reflection_necklace"
     },
-    "d": {
+    "W": {
       "item": "relics:roller_skates"
     },
-    "e": {
-      "item": "relics:scarab_talisman"
-    },
-    "f": {
+    "X": {
       "item": "relics:shadow_glaive"
     },
-    "g": {
-      "item": "relics:slime_heart"
-    },
-    "h": {
-      "item": "relics:soul_devourer"
-    },
-    "i": {
+    "Y": {
       "item": "relics:space_dissector"
     },
-    "j": {
-      "item": "relics:spatial_sign"
-    },
-    "k": {
-      "item": "relics:spider_necklace"
-    },
-    "l": {
+    "Z": {
       "item": "relics:spore_sack"
     },
-    "m": {
+    "a": {
       "item": "relics:springy_boot"
     },
-    "n": {
-      "item": "relics:stellar_catalyst"
-    },
-    "o": {
+    "b": {
       "item": "relics:wool_mitten"
-    },
-    "p": {
-      "item": "minecraft:nether_star"
     }
   },
   "result": {

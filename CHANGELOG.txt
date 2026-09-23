@@ -1,3 +1,8 @@
+1.0.2
+- 16x16 sprites for all five items; all hearts pulse.
+- Relic Heart recipe uses only Relics 0.10 registered items (4x7).
+- Source Heart uses jump_ring instead of unregistered ring_of_amplify.
+
 1.0.1
 - 32x32 item sprites; The Further and Source Heart gem-pulse animation.
 

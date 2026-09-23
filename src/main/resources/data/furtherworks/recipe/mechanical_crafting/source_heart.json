@@ -10,7 +10,7 @@
       "modid": "ars_nouveau"
     }
   ],
-  "accept_mirrored": true,
+  "accept_mirrored": false,
   "category": "misc",
   "show_notification": false,
   "pattern": [
@@ -32,7 +32,7 @@
       "item": "ars_nouveau:ring_of_greater_discount"
     },
     "R": {
-      "item": "ars_nouveau:ring_of_amplify"
+      "item": "ars_nouveau:jump_ring"
     },
     "M": {
       "item": "ars_nouveau:amulet_of_mana_boost"

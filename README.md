@@ -27,7 +27,7 @@ A second motor means a second Further.
 
 ## Relic Heart
 
-One of each intact Relics unique (41 items) plus a Nether Star binder, in a 7×6 mechanical crafter. Broken relics stay for Relicworks milling. More Relics addon items are not required.
+One of each Relics unique that exists in Relics 0.10 (28 items) in a 4×7 mechanical crafter. Broken relics stay for Relicworks milling. More Relics addon items are not required.
 
 ## Build
 
@@ -35,7 +35,7 @@ One of each intact Relics unique (41 items) plus a Nether Star binder, in a 7×6
 ./gradlew build
 ```
 
-Jar: `build/libs/furtherworks-1.0.1.jar`
+Jar: `build/libs/furtherworks-1.0.2.jar`
 
 ## License
 
