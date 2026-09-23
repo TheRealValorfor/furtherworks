@@ -1,0 +1,58 @@
+{
+  "type": "create:mechanical_crafting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aeronautics"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simulated"
+    }
+  ],
+  "accept_mirrored": true,
+  "category": "misc",
+  "show_notification": false,
+  "pattern": [
+    "GAS",
+    "LEP",
+    "BDM"
+  ],
+  "key": {
+    "G": {
+      "item": "aeronautics:gyroscopic_propeller_bearing"
+    },
+    "A": {
+      "item": "aeronautics:aviators_goggles"
+    },
+    "S": {
+      "item": "aeronautics:smart_propeller"
+    },
+    "L": {
+      "item": "aeronautics:levitite"
+    },
+    "E": {
+      "item": "simulated:engine_assembly"
+    },
+    "P": {
+      "item": "aeronautics:pearlescent_levitite"
+    },
+    "B": {
+      "item": "aeronautics:adjustable_burner"
+    },
+    "D": {
+      "item": "aeronautics:music_disc_cloud_skipper"
+    },
+    "M": {
+      "item": "aeronautics:propeller_bearing"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_furtherworks:sky_heart"
+  }
+}

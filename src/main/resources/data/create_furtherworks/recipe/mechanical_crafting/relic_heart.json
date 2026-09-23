@@ -1,0 +1,157 @@
+{
+  "type": "create:mechanical_crafting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "relics"
+    }
+  ],
+  "accept_mirrored": true,
+  "category": "misc",
+  "show_notification": false,
+  "pattern": [
+    "ABCDEF",
+    "GHIJKL",
+    "MNOPQR",
+    "STUVWX",
+    "YZabcd",
+    "efghij",
+    "klmnop"
+  ],
+  "key": {
+    "A": {
+      "item": "relics:amphibian_boot"
+    },
+    "B": {
+      "item": "relics:aqua_walker"
+    },
+    "C": {
+      "item": "relics:arrow_quiver"
+    },
+    "D": {
+      "item": "relics:bastion_ring"
+    },
+    "E": {
+      "item": "relics:blazing_flask"
+    },
+    "F": {
+      "item": "relics:chorus_inhibitor"
+    },
+    "G": {
+      "item": "relics:delay_ring"
+    },
+    "H": {
+      "item": "relics:drowned_belt"
+    },
+    "I": {
+      "item": "relics:elytra_booster"
+    },
+    "J": {
+      "item": "relics:enders_hand"
+    },
+    "K": {
+      "item": "relics:fragrant_flower"
+    },
+    "L": {
+      "item": "relics:ghost_skin_talisman"
+    },
+    "M": {
+      "item": "relics:holy_locket"
+    },
+    "N": {
+      "item": "relics:horse_flute"
+    },
+    "O": {
+      "item": "relics:hunter_belt"
+    },
+    "P": {
+      "item": "relics:ice_breaker"
+    },
+    "Q": {
+      "item": "relics:ice_skates"
+    },
+    "R": {
+      "item": "relics:infinity_ham"
+    },
+    "S": {
+      "item": "relics:jellyfish_necklace"
+    },
+    "T": {
+      "item": "relics:leafy_ring"
+    },
+    "U": {
+      "item": "relics:leather_belt"
+    },
+    "V": {
+      "item": "relics:lucky_horseshoe"
+    },
+    "W": {
+      "item": "relics:magic_mirror"
+    },
+    "X": {
+      "item": "relics:magma_walker"
+    },
+    "Y": {
+      "item": "relics:midnight_robe"
+    },
+    "Z": {
+      "item": "relics:old_boot"
+    },
+    "a": {
+      "item": "relics:phantom_boot"
+    },
+    "b": {
+      "item": "relics:rage_glove"
+    },
+    "c": {
+      "item": "relics:reflection_necklace"
+    },
+    "d": {
+      "item": "relics:roller_skates"
+    },
+    "e": {
+      "item": "relics:scarab_talisman"
+    },
+    "f": {
+      "item": "relics:shadow_glaive"
+    },
+    "g": {
+      "item": "relics:slime_heart"
+    },
+    "h": {
+      "item": "relics:soul_devourer"
+    },
+    "i": {
+      "item": "relics:space_dissector"
+    },
+    "j": {
+      "item": "relics:spatial_sign"
+    },
+    "k": {
+      "item": "relics:spider_necklace"
+    },
+    "l": {
+      "item": "relics:spore_sack"
+    },
+    "m": {
+      "item": "relics:springy_boot"
+    },
+    "n": {
+      "item": "relics:stellar_catalyst"
+    },
+    "o": {
+      "item": "relics:wool_mitten"
+    },
+    "p": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_furtherworks:relic_heart"
+  }
+}

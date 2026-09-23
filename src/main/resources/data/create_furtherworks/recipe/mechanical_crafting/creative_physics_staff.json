@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "simulated"
+    }
+  ],
+  "accept_mirrored": true,
+  "category": "misc",
+  "show_notification": false,
+  "pattern": [
+    "FM"
+  ],
+  "key": {
+    "F": {
+      "item": "create_furtherworks:the_further"
+    },
+    "M": {
+      "item": "simulated:engine_assembly"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "simulated:creative_physics_staff"
+  }
+}

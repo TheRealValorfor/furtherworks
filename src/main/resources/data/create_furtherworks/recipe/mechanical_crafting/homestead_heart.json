@@ -1,0 +1,58 @@
+{
+  "type": "create:mechanical_crafting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pamhc2foodextended"
+    }
+  ],
+  "accept_mirrored": true,
+  "category": "misc",
+  "show_notification": false,
+  "pattern": [
+    "CHS",
+    "PRM",
+    "GBF"
+  ],
+  "key": {
+    "C": {
+      "item": "farmersdelight:roast_chicken_block"
+    },
+    "H": {
+      "item": "farmersdelight:honey_glazed_ham_block"
+    },
+    "S": {
+      "item": "farmersdelight:stuffed_pumpkin_block"
+    },
+    "P": {
+      "item": "farmersdelight:shepherds_pie_block"
+    },
+    "R": {
+      "item": "farmersdelight:rice_roll_medley_block"
+    },
+    "M": {
+      "item": "pamhc2foodextended:meatfeastpizzaitem"
+    },
+    "G": {
+      "item": "pamhc2foodextended:gourmetbeefburgeritem"
+    },
+    "B": {
+      "item": "pamhc2foodextended:gourmetmuttonburgeritem"
+    },
+    "F": {
+      "item": "pamhc2foodextended:gourmetporkburgeritem"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_furtherworks:homestead_heart"
+  }
+}
