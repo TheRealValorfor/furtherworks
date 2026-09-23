@@ -14,14 +14,14 @@
   ],
   "key": {
     "F": {
-      "item": "create_furtherworks:the_further"
+      "item": "furtherworks:the_further"
     },
     "M": {
-      "item": "create:fluid_tank"
+      "item": "create:hand_crank"
     }
   },
   "result": {
     "count": 1,
-    "id": "create:creative_fluid_tank"
+    "id": "create:creative_motor"
   }
 }

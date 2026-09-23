@@ -14,7 +14,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 @Mod(Furtherworks.MODID)
 public final class Furtherworks {
-    public static final String MODID = "create_furtherworks";
+    public static final String MODID = "furtherworks";
 
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(MODID);
     public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
@@ -31,7 +31,7 @@ public final class Furtherworks {
             "the_further", new Item.Properties().rarity(Rarity.EPIC).fireResistant().stacksTo(1));
 
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> TAB = TABS.register("furtherworks", () -> CreativeModeTab.builder()
-            .title(Component.translatable("itemGroup.create_furtherworks"))
+            .title(Component.translatable("itemGroup.furtherworks"))
             .withTabsBefore(CreativeModeTabs.SPAWN_EGGS)
             .icon(() -> THE_FURTHER.get().getDefaultInstance())
             .displayItems((parameters, output) -> {

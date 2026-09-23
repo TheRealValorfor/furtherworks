@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "create_furtherworks:item/sky_heart"
+    "model": "furtherworks:item/homestead_heart"
   }
 }

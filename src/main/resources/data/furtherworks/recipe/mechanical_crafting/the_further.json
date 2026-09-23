@@ -29,26 +29,26 @@
       "item": "iceandfire:dragonsteel_ice_ingot"
     },
     "R": {
-      "item": "create_furtherworks:relic_heart"
+      "item": "furtherworks:relic_heart"
     },
     "N": {
       "item": "minecraft:netherite_block"
     },
     "S": {
-      "item": "create_furtherworks:source_heart"
+      "item": "furtherworks:source_heart"
     },
     "L": {
       "item": "iceandfire:dragonsteel_lightning_ingot"
     },
     "H": {
-      "item": "create_furtherworks:homestead_heart"
+      "item": "furtherworks:homestead_heart"
     },
     "Y": {
-      "item": "create_furtherworks:sky_heart"
+      "item": "furtherworks:sky_heart"
     }
   },
   "result": {
     "count": 1,
-    "id": "create_furtherworks:the_further"
+    "id": "furtherworks:the_further"
   }
 }

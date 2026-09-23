@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-issueTrackerURL="https://github.com/TheRealValorfor/create-furtherworks/issues"
+issueTrackerURL="https://github.com/TheRealValorfor/furtherworks/issues"
 
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-displayURL="https://github.com/TheRealValorfor/create-furtherworks"
+displayURL="https://github.com/TheRealValorfor/furtherworks"
 authors="Worlds Further"
 description='''The Further — Worlds Further endgame catalyst.
 

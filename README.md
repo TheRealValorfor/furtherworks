@@ -1,6 +1,6 @@
-# Create: Furtherworks
+# Furtherworks
 
-**GitHub:** [TheRealValorfor/create-furtherworks](https://github.com/TheRealValorfor/create-furtherworks)
+**GitHub:** [TheRealValorfor/furtherworks](https://github.com/TheRealValorfor/furtherworks)
 
 Worlds Further endgame catalyst. Prove you finished Relics, Aeronautics, Ars, dragons, factory, and the feast table, then spend **The Further** on Create's creative power items.
 
@@ -35,7 +35,7 @@ One of each intact Relics unique (41 items) plus a Nether Star binder, in a 7×6
 ./gradlew build
 ```
 
-Jar: `build/libs/create_furtherworks-1.0.0.jar`
+Jar: `build/libs/furtherworks-1.0.0.jar`
 
 ## License
 

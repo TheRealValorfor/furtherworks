@@ -14,14 +14,14 @@
   ],
   "key": {
     "F": {
-      "item": "create_furtherworks:the_further"
+      "item": "furtherworks:the_further"
     },
     "M": {
-      "item": "create:hand_crank"
+      "item": "create:blaze_cake"
     }
   },
   "result": {
     "count": 1,
-    "id": "create:creative_motor"
+    "id": "create:creative_blaze_cake"
   }
 }

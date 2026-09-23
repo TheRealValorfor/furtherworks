@@ -14,14 +14,14 @@
   ],
   "key": {
     "F": {
-      "item": "create_furtherworks:the_further"
+      "item": "furtherworks:the_further"
     },
     "M": {
-      "item": "create:blaze_cake"
+      "item": "create:fluid_tank"
     }
   },
   "result": {
     "count": 1,
-    "id": "create:creative_blaze_cake"
+    "id": "create:creative_fluid_tank"
   }
 }

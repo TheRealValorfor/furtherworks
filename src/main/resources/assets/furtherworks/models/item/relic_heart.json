@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "create_furtherworks:item/homestead_heart"
+    "layer0": "furtherworks:item/relic_heart"
   }
 }
