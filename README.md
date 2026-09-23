@@ -35,7 +35,7 @@ One of each intact Relics unique (41 items) plus a Nether Star binder, in a 7×6
 ./gradlew build
 ```
 
-Jar: `build/libs/furtherworks-1.0.0.jar`
+Jar: `build/libs/furtherworks-1.0.1.jar`
 
 ## License
 

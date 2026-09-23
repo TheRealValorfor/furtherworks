@@ -1,2 +1,5 @@
+1.0.1
+- 32x32 item sprites; The Further and Source Heart gem-pulse animation.
+
 1.0.0
 - Initial release: The Further catalyst, four pillar hearts, creative motor/tank/blaze cake/physics staff recipes. No worldshaper or creative crate.
