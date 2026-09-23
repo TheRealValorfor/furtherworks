@@ -35,7 +35,7 @@ One of each Relics unique that exists in Relics 0.10 (28 items) in a 4×7 mechan
 ./gradlew build
 ```
 
-Jar: `build/libs/furtherworks-1.0.2.jar`
+Jar: `build/libs/furtherworks-1.0.3.jar`
 
 ## License
 

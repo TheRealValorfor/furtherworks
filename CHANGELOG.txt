@@ -1,3 +1,6 @@
+1.0.3
+- Restore original AI icon art at 16x16; drop the extra outline that boxed Relic Heart.
+
 1.0.2
 - 16x16 sprites for all five items; all hearts pulse.
 - Relic Heart recipe uses only Relics 0.10 registered items (4x7).
