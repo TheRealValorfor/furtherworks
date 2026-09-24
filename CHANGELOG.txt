@@ -1,3 +1,6 @@
+1.0.4
+- New item art for all five icons (64x64). Hearts pulse in the gem; The Further keeps a static gold ring with spinning energy in the core.
+
 1.0.3
 - Restore original AI icon art at 16x16; drop the extra outline that boxed Relic Heart.
 

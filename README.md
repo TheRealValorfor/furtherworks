@@ -1,6 +1,7 @@
 # Furtherworks
 
-**GitHub:** [TheRealValorfor/furtherworks](https://github.com/TheRealValorfor/furtherworks)
+**GitHub:** [TheRealValorfor/furtherworks](https://github.com/TheRealValorfor/furtherworks)  
+**CurseForge:** [furtherworks](https://www.curseforge.com/minecraft/mc-mods/furtherworks) (project exists; first file not live yet)
 
 Worlds Further endgame catalyst. Prove you finished Relics, Aeronautics, Ars, dragons, factory, and the feast table, then spend **The Further** on Create's creative power items.
 
@@ -35,7 +36,7 @@ One of each Relics unique that exists in Relics 0.10 (28 items) in a 4×7 mechan
 ./gradlew build
 ```
 
-Jar: `build/libs/furtherworks-1.0.3.jar`
+Jar: `build/libs/furtherworks-1.0.4.jar`
 
 ## License
 
